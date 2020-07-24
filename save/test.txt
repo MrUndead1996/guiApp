@@ -1,0 +1,2 @@
+NumberInExpandedForm
+42
