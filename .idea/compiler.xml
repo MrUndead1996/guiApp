@@ -13,7 +13,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="TestTask" options="--add-exports $USER_HOME$/Загрузки/javafx-sdk-14.0.1/lib" />
+      <module name="TestTask" options="" />
     </option>
   </component>
 </project>
