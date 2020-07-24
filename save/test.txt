@@ -1,2 +1,0 @@
-NumberInExpandedForm
-42
