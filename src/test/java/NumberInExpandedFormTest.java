@@ -1,4 +1,3 @@
-package javaTest;
 import org.logic.NumberInExpandedForm;
 import org.junit.Test;
 

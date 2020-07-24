@@ -1,4 +1,3 @@
-package javaTest;
 import org.logic.SaveLoadController;
 import org.logic.Tasks;
 import org.junit.Test;

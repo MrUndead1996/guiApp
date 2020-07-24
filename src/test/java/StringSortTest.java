@@ -1,4 +1,3 @@
-package javaTest;
 import org.logic.StringSort;
 import org.junit.Test;
 import static org.junit.Assert.*;

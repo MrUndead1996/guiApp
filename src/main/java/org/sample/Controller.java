@@ -197,6 +197,7 @@ public class Controller implements Initializable {
             compute.fire();                                                                                             // compute load values
 
         } catch (IOException e) {
+            taskChanger.setValue(Tasks.NumberInExpandedForm.name());
             LOGGER.log(Level.WARNING, e.getMessage());
             Alert alert = new Alert(Alert.AlertType.ERROR);
             alert.setTitle("Error");
